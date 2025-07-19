@@ -1,136 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Roma Sahu | ML Portfolio</title>
-  <link rel="stylesheet" href="style.css"/>
-</head>
-<body>
-  <header>
-    <h1>👋 Hi, I'm <span>Roma Sahu</span></h1>
-    <p>Aspiring ML Engineer | Python Enthusiast</p>
-  </header>
+<h1 align="center">Hi 👋, I'm Roma Sahu</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Python Enthusiast | Data Explorer</h3>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I love solving real-world problems using data and machine learning. I’m currently exploring deep learning and building fun projects.</p>
-  </section>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
-  <section id="skills">
-    <h2>Tech Stack</h2>
-    <div class="badges">
-      <span>Python</span>
-      <span>Pandas</span>
-      <span>Scikit-learn</span>
-      <span>NumPy</span>
-      <span>Jupyter</span>
-      <span>GitHub</span>
-    </div>
-  </section>
+---
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li>
-        <strong>Spam Classifier</strong> — Classifies spam using NLP + TF-IDF
-        <a href="https://github.com/romasahu24/spam-classifier" target="_blank">View</a>
-      </li>
-      <li>
-        <strong>House Price Predictor</strong> — Regression model on housing data
-        <a href="https://github.com/romasahu24/house-price-prediction" target="_blank">View</a>
-      </li>
-      <li>
-        <strong>Covid Data Analysis</strong> — Data cleaning and visualization
-        <a href="https://github.com/romasahu24/covid-analysis" target="_blank">View</a>
-      </li>
-    </ul>
-  </section>
+## 🧠 About Me
 
-  <footer>
-    <p>📫 Connect with me:</p>
-    <a href="https://linkedin.com/in/romasahu" target="_blank">LinkedIn</a> |
-    <a href="mailto:romasahu24@gmail.com">Gmail</a>
-  </footer>
+- 🔭 I’m currently working on **Machine Learning Projects**
+- 🌱 I’m learning **Deep Learning** and **Data Analysis**
+- 💬 Ask me about **Python, Pandas, Scikit-learn, and APIs**
+- 📫 How to reach me: **romasahu24@gmail.com**
+- ⚡ Fun fact: I enjoy visualizing data as much as building models!
 
-  <script src="script.js"></script>
-</body>
-</html>
-body {
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f0f4f8;
-  color: #333;
-  line-height: 1.6;
-}
+---
 
-header {
-  background: #5c67f2;
-  color: white;
-  padding: 2rem;
-  text-align: center;
-}
+## 🚀 Tech Stack
 
-header span {
-  color: #ffe066;
-}
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-section {
-  padding: 2rem;
-}
+---
 
-h2 {
-  color: #5c67f2;
-}
-
-.badges span {
-  background: #dbeafe;
-  color: #1e40af;
-  padding: 8px 12px;
-  border-radius: 10px;
-  margin: 5px;
-  display: inline-block;
-  font-weight: bold;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  background: #fff;
-  border-left: 5px solid #5c67f2;
-  margin-bottom: 1rem;
-  padding: 1rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-li a {
-  color: #5c67f2;
-  text-decoration: none;
-  margin-left: 10px;
-}
-
-footer {
-  background: #e0e7ff;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
-}
-// Simple fade-in effect on load
-document.addEventListener('DOMContentLoaded', () => {
-  document.body.style.opacity = 0;
-  setTimeout(() => {
-    document.body.style.transition = 'opacity 1s';
-    document.body.style.opacity = 1;
-  }, 100);
-});
-
+## 📂 Projects
 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romasahu24&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romasahu24&theme=radical" />
+</p>
 
 ---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romasahu)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romasahu24@gmail.com)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*
