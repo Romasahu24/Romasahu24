@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m learning **Deep Learning** and **Data Analysis**
 - 💬 Ask me about **Python, Pandas, Scikit-learn, and APIs**
-- 📫 How to reach me: **romasahu24@gmail.com**
+- 📫 How to reach me: **romasahu2211@gmail.com**
 - ⚡ Fun fact: I enjoy visualizing data as much as building models!
 
 ---
@@ -46,8 +46,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romasahu)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romasahu24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roma2211)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romasahu2211@gmail.com)
 
 ---
 
